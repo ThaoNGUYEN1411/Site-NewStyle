@@ -1,0 +1,12 @@
+
+.justify-content-between
+{
+    justify-content: space-between;
+}
+
+.d-flex{
+    display: flex;
+}
+.in-line{
+    display: inline;
+}
